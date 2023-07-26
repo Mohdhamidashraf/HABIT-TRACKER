@@ -30,7 +30,7 @@ The app is built using the following technologies:
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/harshraj29/Habit-Tracker
+git clone https://github.com/Mohdhamidashraf/HABIT-TRACKER
 ```
 
 2. Install Node.js and npm (Node Package Manager) on your system if not already installed.
