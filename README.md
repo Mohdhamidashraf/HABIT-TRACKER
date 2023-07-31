@@ -1,4 +1,4 @@
-# Habit Tracker App <a href="https://habit-tracker-zene.onrender.com">Live</a>
+# Habit Tracker App <a href="https://habit-tracker-zene.onrender.com" target="_blank">Live</a>
 
 This is a full-stack habit tracker app built using Node.js and EJS (Embedded JavaScript) as the templating engine. The app allows users to define habits and track their progress daily. Users can mark each habit as "Done," "Not done," or "None" for each day.
 
